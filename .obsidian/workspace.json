@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17df04b4e6fb753d",
+        "id": "04f8641ff08384e2",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd4c21b6dd81f57",
+            "id": "4d0f0a00e4195d59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "434ca8bac9f47420",
@@ -169,10 +170,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "8dd4c21b6dd81f57",
+  "floating": {
+    "id": "004bbe559026932e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "990d69471e9864f3",
+        "type": "window",
+        "children": [
+          {
+            "id": "0c22d107230c8d41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0eec2338265e58f6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "neuro-anat-notes/slides/brainstem 1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "brainstem 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0eec2338265e58f6",
   "lastOpenFiles": [
-    "README.md",
+    "neuro-anat-notes/Brainstem 1.md",
+    "neuro-anat-notes/slides/spinalcord2.pdf",
+    "neuro-anat-notes/slides/brainstem 1.pdf",
     "neuro-anat-notes/Spinal Cord 2.md",
-    "neuro-anat-notes/Brainstem 1.md"
+    "neuro-anat-notes/slides/spinalcord.pdf",
+    "neuro-anat-notes/slides",
+    "README.md"
   ]
 }

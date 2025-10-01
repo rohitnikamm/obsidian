@@ -1,7 +1,7 @@
 - Location of Motor system
 *what motor system controls the limbs? what controls the trunk?*
 *what is the difference between grey matter and white matter in the spinal cord?*
-*do somatosensory neurons enter the spinal cord proximally or distally? what about motor neurons?*
+*do somatosensory neurons enter the spinal cord dorsally or ventrally? what about motor neurons?*
 
 
 
@@ -34,6 +34,7 @@
 *what tracts ascend & what tracts decend? how are they different?*
 *how are UMNs and LMNs different than proprioceptive receptors?*
 *list the 3 ascending tracts and their function*
+*where is the somatosensory cortex?*
 *where do the ascending tracts acend to?*
 
 - Dorsal Column
@@ -44,11 +45,11 @@
 *where do cuneate fasciculus fibers ascend from in the body?*
 *what does cuneate fasciculus mean?*
 
+- SpinoCerebellar Tracts
+*why does this tract travel to the cerebellum, yet the other two tracts travel to the somatosensory cortex?*
+*is the cerebellum contralateral or ipsilateral?*
+
 - Anterolateral System
 *what does decussate mean?*
 *is the somatosensory cortex contralateral or ipsilateral?*
 *where does the tract travel to?*
-
-- SpinoCerebellar Tracts
-*why does this tract travel to the cerebellum, yet the other two tracts travel to the thalamus?*
-*is the cerebellum contralateral or ipsilateral?*
