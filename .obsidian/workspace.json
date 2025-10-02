@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "04f8641ff08384e2",
+        "id": "bcdb1a0dc5f664d3",
         "type": "tabs",
         "children": [
           {
-            "id": "4d0f0a00e4195d59",
+            "id": "0021e2e3870c44ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "neuro-anat-notes/Brainstem 1.md",
-                "mode": "source",
-                "source": false
+                "file": "neuro-anat-notes/slides/brainstem 2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Brainstem 1"
+              "icon": "lucide-file-text",
+              "title": "brainstem 2"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "434ca8bac9f47420",
@@ -198,21 +195,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
+        "x": 1511,
+        "y": 954,
+        "width": 756,
+        "height": 947,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "4d0f0a00e4195d59",
+  "active": "ac3ee835a7521db9",
   "lastOpenFiles": [
     "neuro-anat-notes/slides/brainstem 1.pdf",
-    "neuro-anat-notes/Brainstem 1.md",
-    "neuro-anat-notes/Spinal Cord 2.md",
+    "neuro-anat-notes/slides/brainstem 2.pdf",
     "neuro-anat-notes/slides/spinalcord2.pdf",
+    "neuro-anat-notes/Brainstem 2.md",
+    "neuro-anat-notes/Spinal Cord 2.md",
+    "neuro-anat-notes/Brainstem 1.md",
     "neuro-anat-notes/slides/spinalcord.pdf",
     "neuro-anat-notes/slides",
     "README.md"

@@ -3,8 +3,6 @@
 *what is the difference between grey matter and white matter in the spinal cord?*
 *do somatosensory neurons enter the spinal cord dorsally or ventrally? what about motor neurons?*
 
-
-
 - Upper and Lower Motor Neurons
 *what are striate muscles?*
 *why do LMNs synapse to striate muscles?*
@@ -27,8 +25,6 @@
 *what is the name of the main tract UMNs run through to access the Medial Motor System?*
 *what other two pathways do UMNs utilize to access the Medial Motor System?*
 *what type of information do the fibers in the Medial Corticospinal Tract transmit?*
-
-
 
 - Somatosensory
 *what tracts ascend & what tracts decend? how are they different?*
