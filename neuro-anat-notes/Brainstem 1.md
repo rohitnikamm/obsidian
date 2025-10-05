@@ -12,7 +12,7 @@
 - Details of the brainstem
 - Ventral View
 *why are the tracts separated in the medulla?*
-*why are the tracts less visible in the decussation of pyramids? what happens to those neurons?(contralateral neurons)*
+*why are the tracts less visible in the decussation of pyramids? what happens to those neurons? (contralateral neurons)*
 *why are the cerebral peduncles so big?*
 *what is another name for the cerebral peduncles?*
 
